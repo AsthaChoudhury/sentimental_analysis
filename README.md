@@ -3,7 +3,7 @@ This project uses a Colab notebook to demonstrate text classification sentimenta
 
 ## How to Run
 
-[Open Notebook]([https://colab.research.google.com/github/yourusername/text-classification-project/blob/master/notebooks/text_classification.ipynb](https://colab.research.google.com/drive/1BYYyoFXaX-vXgDej02g-G4EsXruDkDLo?usp=sharing))
+[Open Notebook]([(https://colab.research.google.com/drive/1BYYyoFXaX-vXgDej02g-G4EsXruDkDLo?usp=sharing)])
 
 ### Steps:
 1. Open the notebook in Colab.
